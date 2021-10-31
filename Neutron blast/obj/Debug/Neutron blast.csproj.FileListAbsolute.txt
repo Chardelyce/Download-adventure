@@ -1,0 +1,15 @@
+C:\Users\chardelyce\Desktop\Neutron blast\obj\Debug\Neutron blast.csproj.AssemblyReference.cache
+C:\Users\chardelyce\Desktop\Neutron blast\obj\Debug\MainWindow.g.cs
+C:\Users\chardelyce\Desktop\Neutron blast\obj\Debug\App.g.cs
+C:\Users\chardelyce\Desktop\Neutron blast\obj\Debug\Neutron blast_MarkupCompile.cache
+C:\Users\chardelyce\Desktop\Neutron blast\obj\Debug\Neutron blast_MarkupCompile.lref
+C:\Users\chardelyce\Desktop\Neutron blast\obj\Debug\MainWindow.baml
+C:\Users\chardelyce\Desktop\Neutron blast\obj\Debug\Neutron blast.g.resources
+C:\Users\chardelyce\Desktop\Neutron blast\obj\Debug\Neutron blast.pdb
+C:\Users\chardelyce\Desktop\Neutron blast\bin\Debug\Neutron blast.exe.config
+C:\Users\chardelyce\Desktop\Neutron blast\bin\Debug\Neutron blast.exe
+C:\Users\chardelyce\Desktop\Neutron blast\bin\Debug\Neutron blast.pdb
+C:\Users\chardelyce\Desktop\Neutron blast\obj\Debug\Neutron_blast.Properties.Resources.resources
+C:\Users\chardelyce\Desktop\Neutron blast\obj\Debug\Neutron blast.csproj.GenerateResource.cache
+C:\Users\chardelyce\Desktop\Neutron blast\obj\Debug\Neutron blast.csproj.CoreCompileInputs.cache
+C:\Users\chardelyce\Desktop\Neutron blast\obj\Debug\Neutron blast.exe
