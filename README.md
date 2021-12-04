@@ -1,5 +1,5 @@
 # Download adventure
-an demo game just to kind of test scrollling ... its not that good 
+a quick personal challenge project :)
 
 press space to jump and the right arrow key to move 
 
