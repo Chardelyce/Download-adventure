@@ -8,11 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/background.gif.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/newrunner_01.gif.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/newrunner_02.gif.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/newrunner_03.gif.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/newrunner_04.gif.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/obstacle.png.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("icon.png")]
 
 

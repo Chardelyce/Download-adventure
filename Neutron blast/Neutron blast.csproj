@@ -94,7 +94,9 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="icon.png" />
+  </ItemGroup>
   <ItemGroup>
     <Resource Include="images\background.gif.png" />
     <Resource Include="images\newRunner_01.gif.png" />
