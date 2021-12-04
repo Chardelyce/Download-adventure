@@ -1,7 +1,7 @@
 
 a quick personal challenge project :)
 
--press space to jump and the right arrow key to move
+-press space to jump and the right arrow key to move enter to restart 
 plays like dino jump 
 
 ![image](https://user-images.githubusercontent.com/63970461/144727100-2c686469-1ab2-486d-b725-fef968f56a69.png)
